@@ -20,3 +20,7 @@ Deep learning model for detecting violence in video streams using ResNet50 + LST
 2. Install required packages
 3. Download the dataset
 4. Run all cells
+
+##Dataset
+Download the dataset from here:
+https://www.kaggle.com/datasets/vulamnguyen/rwf2000
